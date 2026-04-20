@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+imbalanced-learn
+tensorflow-cpu==2.15.0
